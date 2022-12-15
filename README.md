@@ -1,2 +1,2 @@
 # db_e-commerce
-Projeto de um database para um e-commerce.
+Database design for an e-commerce.
