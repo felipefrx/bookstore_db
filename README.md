@@ -7,7 +7,7 @@ Database design for an e-commerce book store.
 
 ### Logic model
 ![logic model](https://github.com/felipefrx/db_e-commerce/blob/main/models/modelo_l%C3%B3gico.png)
-**Program used was SQL Power Architect.**
+**Program used was SQL brModelo.**
 
 ### Physical model
 ![physical model](https://github.com/felipefrx/db_e-commerce/blob/main/models/modelo_f%C3%ADsico.png)
