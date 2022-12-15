@@ -1,2 +1,2 @@
-# db_e-commerce
+# Database E-commecer
 Database design for an e-commerce.
