@@ -2,9 +2,8 @@
 Database design for an e-commerce book store.
 
 ### Conceptual model
-Program used was brModelo.
 ![Conceptual model](https://github.com/felipefrx/db_e-commerce/blob/main/models/modelo_conceitual.png)
-
+**Program used was brModelo.**
 
 ### Logic model
 **Program used was SQL Power Architect.**
